@@ -1,2 +1,2 @@
-# caqueira
-Loja Caqueira
+Loja Virtual Caqueira.com
+Caqueira Brincos do brilho
