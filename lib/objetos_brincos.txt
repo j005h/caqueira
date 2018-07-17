@@ -1,4 +1,4 @@
-#
+##
 unicornio = Brinco.new "unicornio_arcoiris", "historia", 22.2, 0.1, :verao
 erva = Brinco.new "maconha","medicinal", 33.2, 0.1, :inverso
 copa_do_mundo = Brinco.new "brasil" , "copa_russia", 22.1, 0.1, :verao
