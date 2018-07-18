@@ -1,2 +1,1 @@
-Loja Virtual Caqueira.com
-========  Caqueira Brincos do brilho =========
+Loja Virtual =[ Caqueira.com ]=
